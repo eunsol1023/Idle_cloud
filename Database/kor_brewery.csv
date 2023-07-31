@@ -1,0 +1,51 @@
+brewery_num,brewery_name,brewery_addr,brewery_phone,brewery_hp,brewery_alv,brewery_resv
+1,산머루농원,경기 파주시 적성면 객현리 67-1,031-958-4558,http://www.sanmeoru.com,,Y
+2,배상면주가,경기도 포천시 화현면 화현리 512,031-531-9300,http://www.sansawon.co.kr,Y,
+3,우리술,"경기 가평군 하면 대보간선로 26, 29",031-585-8525,http://www.woorisool.kr,Y,
+4,그린영농조합,경기도 안산시 단원구 뻐꾹산길 107,032-886-9873,http://www.grandcoteau.co.kr,Y,
+5,배혜정도가,경기도 화성시 정남면 서봉로 835,031-354-9376,http://www.baedoga.co.kr/,,Y
+6,밝은세상영농조합,경기도 평택시 포승읍 충열길 37,031-683-0981,http://www.tigercalyx.com/,,Y
+7,좋은술,경기 평택시 오성면 숙성뜰길 108,031-681-8929,https://jsul.modoo.at/,Y,
+8,술샘,경기도 용인시 처인구 양지면 죽양대로 2298-1,070-4218-5225,http://www.sulseam.com,Y,
+9,신평양조장,충남 당진시 신평면 신평로 813,041-362-6080,http://www.koreansul.co.kr,Y,
+10,예산사과와인,충남 예산군 고덕면 대몽로 107-25,041-337-9584,http://www.chusawine.com,Y,
+11,양촌양조,충남 논산시 양촌면 매죽헌로1665번길 14-9,041-741-2011,http://www.yangchon.co.kr/,Y,
+12,한산소곡주,충남 서천군 한산면 충절로 1118,041-951-0290,http://www.sogokju.co.kr,Y,
+13,중원당,충북 충주시 가금면 창동리 243,043-842-5005,http://www.청명주.com/,,Y
+14,대강양조장,충북 단양군 대강면 대강로 60,043-422-0077,http://www.krwine.com,Y,
+15,조은술 세종,충북 청주시 청원구 사천로 18길 5-2,043-218-7689,http://www.joeunsulsj.co.kr,,Y
+16,화양,충청북도 청주시 청원구 내수읍 풍정1길 8-2,043-214-9424,http://hwayang.co/,Y,Y
+17,이원양조장,충청북도 옥천군 이원면 묘목로 113,043-732-2177,http://iwonwine.com/new/index.php,Y,
+18,여포와인농장,충북 영동군 양강면 유점지촌길 75,043-744-7702,https://yeopo.modoo.at/,Y,
+19,불휘농장,충북 영동군 심천면 약목리 584-2,043-742-5275,,Y,Y
+20,도란원,충청북도 영동군 매곡면 옥전리 825-1,043-743-2109,http://xn--hg3b13gpoq4muubvz4a.kr/,Y,
+21,태인합동주조장,전북 정읍시 태인면 태흥리 392-1,063-534-4018,http://www.태인양조장.com/,,Y
+22,지리산 운봉주조,전북 남원시 운봉읍 서천리 622번지,063-634-0009,http://www.herbsul.com/,Y,Y
+23,청산녹수,전라남도 장성군 장섭읍 남양촌길 19,061-393-4141,http://www.bluegreenkorea.co.kr,Y,
+24,추성고을,전남 담양군 용면 추령로 29,061-383-3011,http://www.chusungju.co.kr,,Y
+25,대대로영농조합법인,전남 진도군 군내면 둔전리 98,061-542-3399,http://www.e-hongju.co.kr,Y,
+26,해창주조장,전남 해남군 화산면 해창길 1,061-532-5152,https://haechangjujo.modoo.at/,Y,
+27,예술주조,강원도 홍천군 내촌면 물걸리 508-2,033-435-1120,http://www.ye-sul.co.kr,Y,Y
+28,국순당,강원도 횡성군 둔내면 현천리 120,033-340-4300,http://www.ksdb.co.kr,,Y
+29,울진술도가,경상북도 울진군 근남면 노음2길 4,054-782-1855,http://www.uljinsuldoga.com/index.php,Y,Y
+30,오미나라,경북 문경시 문경읍 새재로 609,054-572-0601,http://www.omynara.com/,Y,
+31,문경주조,경상북도 문경시 동로면 노은리 192번지,054-552-8285,https://mgomijasul.modoo.at/,Y,
+32,명인안동소주,경북 안동시 풍산읍 산업단지6길 6,054-856-6903,http://www.adsoju.com,Y,
+33,한국애플리즈,경북 의성군 단촌면 일직점곡로 755,054-834-7800,http://www.applewine.co.kr/,Y,
+34,은척양조장,경북 상주시 은척면 봉중2길 16-4,054-541-6409,https://takbaeki.modoo.at/,Y,
+35,한국와인,경상북도 영천시 금호읍 원기리 414-2,054-333-3010,http://www.vincoree.com,Y,
+36,고도리 와이너리,경북 영천시 고경면 고도리 494-3,054-335-3174,http://고도리와인.com,Y,
+37,수도산와이너리,경상북도 김천시 증산면 금곡리 226-1번지,054-439-1518,http://www.sdsmeru.com/,Y,Y
+38,명가원,경상남도 함양군 지곡면 지곡창촌길 3,055-963-8992,http://www.mgwkorea.com,,Y
+39,복순도가,울산광역시 울주군 상북면 향산리 439,1577-6746,http://www.boksoon.com/,Y,
+40,금정산성 토산주,부산 금정구 산성로 453,051-517-6552,http://www.sanmak.kr/,Y,
+41,제주샘주,제주 제주시 애월읍 애언로 283,064-799-4225,http://www.jejusaemju.co.kr,Y,
+42,제주고소리술익는집,제주도 서귀포시 표선면 중산간동로 4726,064-787-5046,http://jejugosorisul.com/,Y,
+43,모월,강원 원주시 판부면 판부신촌길 84,033-748-8008,http://www.mowall.co.kr/,N,N
+44,술아원,경기 여주 점봉길 93-12,070-8776-0043,https://soolawon.modoo.at/,N,N
+45,장희,충북 청주 청원구 내수읍 미원초정로 1275,070-4415-6567,https://jhdg3491.modoo.at/,N,N
+46,하미앙,경남 함양군 함양읍 삼봉로 442-14,055-964-2500,www.sanmuru.com,N,Y
+47,금풍양조,인천 강화군 길상면 삼랑성길 8,070-4400-1931,https://www.instagram.com/on_sul/,Y,Y
+48,오산양조,경기 오산시 시장길 63,031-374-2139,https://www.osansool.com/,,
+49,산막와이너리,충북 영동군 영동읍 산막골길 31-45,043-745-3888,http://www.sanmacwine.com/web/main/,Y,Y
+50,맑은내일,경남 창원시 성산구 삼귀로 411-8 (귀산동),055-264-0996,https://www.good-tomorrow.co.kr/,N,Y
