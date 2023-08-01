@@ -1,0 +1,236 @@
+*{
+    font-family: 'Diphylleia', 세리프;
+    list-style : none;
+    /* text-decoration: none; */
+    border-collapse: collapse;
+    margin:0px;
+    padding:0px;
+    color:#000;
+}
+
+.intro_bg{
+    background-image: url("img/로고_최종.jpg");
+    /* background-color: #332B29; */
+    margin: center;
+    width : 100%;
+    height : 500px;
+}
+
+.header{
+    display: flex;
+    width: auto;
+    margin : auto;
+    /* background: #DEB76C; */
+    height: 100px;
+}
+
+.searchArea{
+    width:30%;
+    height:50px;
+    background:rgba(222,183,108,0.75);
+    border-radius: 30px;
+    margin-top: 25px;
+    margin-left:25px;
+}
+
+.searchArea > form > input{
+    border:none;
+    width:85%;
+    height:50px;
+    background: rgba(0,0,0,0.0);
+    color: #fff;
+    padding-left:15px;
+}
+
+.searchArea > form > span{
+    width : 50px;
+    color : #fff;
+    font-weight: bold;
+    cursor  : pointer;
+}
+
+.nav{
+    display: flex;
+    justify-content: flex-end;
+    line-height:90px;
+    width:80%;
+}
+
+.nav > li{
+    margin-left:50px;
+}
+
+.nav > li > a{
+    color: #fff;
+    text-decoration-line: none;
+    margin-right: 25px;
+    font-family: 'Diphylleia', 세리프;
+}
+
+.intro_text{
+    width: 100%;
+    margin:75px auto 100px auto;
+    text-align: center;
+}
+.intro_text > span{
+    color : #DEB76C;
+}
+
+/* menu */
+
+.menu{
+    position: relative;
+    top: +375px;
+    display: flex;
+    width : 90%;
+    height: 50px ;
+    background:#DEB76C;
+    box-shadow: 10px 10px 5px rgba(51,43,41,0.25);
+    margin : auto;
+    border-radius: 30px;
+}
+
+.menu > li{
+    flex:1;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.menu > li > a{
+    font-size: 20px;
+    text-decoration-line: none;
+    font-family: 'Diphylleia', 세리프;
+}
+
+.back{
+    /* position: relative;
+    top: +400px; */
+    width:auto;
+    height: 1200px;
+    margin-top: 350px;
+    /* background: red; */
+}
+
+/* main */
+
+.main_01{
+    /* position: relative;
+    top: -750px; */
+    width: 80%;
+    height: 400px;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    margin-top: -1100px;
+}
+
+.main_01 > div > li{
+    width: 400px;
+    height: 400px;
+    flex: 1;
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 20px;
+    background: rgba(222,183,108,0.25);
+}
+
+.main_01 > div > li > a{
+    font-size: 40px;
+    font-family: 'Diphylleia', 세리프;
+    text-decoration-line: none;
+}
+
+.main_02{
+    /* position: relative;
+    top: -700px; */
+    width: 80%;
+    height: 500px;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.main_02 > div > li{
+    width: 610px;
+    height: 500px;
+    flex: 1;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 20px;
+    background: rgba(222,183,108,0.25);
+}
+
+.main_02 > div > li > a{
+    font-size: 40px;
+    font-family: 'Diphylleia', 세리프;
+    text-decoration-line: none;
+}
+
+.footer{
+    background-image: url("img/footer logo.jpg");
+    /* background: #332B29; */
+    margin: center;
+    margin-top: 350px;
+    width: auto;
+    height: 200px;
+}
+
+
+
+/* ----------login.html---------- */
+
+.sub_header{
+    background-color: #332B29;
+    width: 100%;
+    height: 250px;
+}
+
+.logo > a > img{
+    display: flex;
+    margin: auto;
+}
+
+.sub_nav{
+    display: flex;
+    justify-content: flex-end;
+    line-height:10px;
+    width:97.5%;
+}
+
+.sub_nav > li{
+    margin-top: -150px;
+    margin-left:50px;
+}
+
+.sub_nav > li > a{
+    color: #fff;
+    text-decoration-line: none;
+    margin-right: 20px;
+    font-family: 'Diphylleia', 세리프;
+}
+
+.sub_menu{
+    position: relative;
+    top: -25px;
+    display: flex;
+    width : 90%;
+    height: 50px ;
+    background:#DEB76C;
+    box-shadow: 10px 10px 5px rgba(51,43,41,0.25);
+    margin : auto;
+    border-radius: 30px;
+}
+
+.sub_menu > li{
+    flex:1;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.sub_menu > li > a{
+    font-size: 20px;
+    text-decoration-line: none;
+    font-family: 'Diphylleia', 세리프;
+}
+
