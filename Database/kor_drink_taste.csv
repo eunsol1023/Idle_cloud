@@ -1,76 +1,74 @@
 ﻿tra_drink_name,tra_drink_type,tra_drink_sweet,tra_drink_after,tra_drink_body,tra_drink_bitter,tra_drink_sour,tra_drink_acid,tra_drink_tannin,tra_drink_price,tra_drink_alc,tra_drink_date,tra_drink_storage,tra_drink_snack,tra_drink_img,태그,설명
-자연담은 복분자막걸리,0,4,0,2,1,2,0,0,3250,6,제조일로부터 1년,냉장 보관,"전복 버터구이, 삼계탕, 장어구이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/mcu5-1645437591022-%EC%9E%90%EC%97%B0%EB%8B%B4%EC%9D%80%20%EB%B3%B5%EB%B6%84%EC%9E%90%20%EB%A7%89%EA%B1%B8%EB%A6%AC-7.jpg,,
-지란지교,0,4,0,4,2,3,0,0,16000,12,제조일로부터 90일,냉장 보관,"불족발, 곱창, 훈제오리 냉채",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/9gfk-1633669822360-%EC%A7%80%EB%9E%80%EC%A7%80%EA%B5%90+%ED%83%81%EC%A3%BC1.jpg,,
-지란지교 무화과 0,0,4,0,4,2,3,0,0,17000,12,제조일로부터 90일,냉장 보관,"불족발, 곱창, 훈제오리 냉채",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/IrS1-1633053193961-%EC%A7%80%EB%9E%80%EC%A7%80%EA%B5%90+%EB%AC%B4%ED%99%94%EA%B3%BC1.jpg,,
-지란지교 1,1,3,0,3,2,4,0,0,25000,15,제조일로부터 180일,냉장 보관,"간장 치킨, 굴국, 버섯 볶음",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/0627-1654681288573-thumb.jpg,,
-꽃 와인,2,3,0,3,0,3,0,0,19000,11.5,유통기한 없음,직사광선을 피해 서늘한 곳에 보관,,https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/CIwg-1660891902410-1.jpg,,
-로제와인,2,3,0,3,0,3,0,2,22000,12,유통기한 없음,상온 보관 가능,"과일치즈, 불고기, 로제 떡볶이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/Q6pS-1637544263955-%EC%83%A4%ED%86%A0%EB%AF%B8%EC%86%8C%20%EB%A1%9C%EC%A0%9C%20%EC%99%80%EC%9D%B8%20%EC%8A%A4%EC%9C%84%ED%8A%B8-2.jpg,,
-모리,3,0,2,3,0,0,0,0,9800,19,유통기한 없음,상온 보관 가능,"버섯 전골, 굴, 오징어 숙회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/43PR-1680503975541-mori+%282%29.jpg,,
-고도리 화이트와인 스위트,2,3,0,3,0,3,0,0,20000,10.5,유통기한 없음,직사광선을 피해 서늘한 곳에 보관,"조개구이, 닭가슴살, 흰살생선회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/B68U-1645516585523-%EA%B3%A0%EB%8F%84%EB%A6%AC%20%ED%99%94%EC%9D%B4%ED%8A%B8%20%EC%99%80%EC%9D%B8%20%EC%8A%A4%EC%9C%84%ED%8A%B8-2.jpg,,
-고도리 청수 와인,2,4,0,2,0,3,0,0,25000,10.5,유통기한 없음,직사광선을 피해 서늘한 곳에 보관,"과일 샐러드, 고르곤졸라 피자, 흰살생선회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/0TWZ-1631758801622-%EA%B3%A0%EB%8F%84%EB%A6%AC+%EC%B2%AD%EC%88%98+%ED%99%94%EC%9D%B4%ED%8A%B8+%EC%99%80%EC%9D%B8-1.jpg,,
-고도리 복숭아와인,2,4,0,2,0,4,0,2,23000,6.5,유통기한 없음,직사광선을 피해 서늘한 곳에 보관,,https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/xdPQ-1642143289464-gdr%20bsa0.jpg,,
-동학 1957,1,2,0,2,3,4,0,0,3800,13,제조일로부터 2년,냉장 보관,"들깨수제비, 궁중 떡볶이, 된장찌개",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/TOnv-1655794504098-1.jpg,,
-려,3,0,4,4,0,0,0,0,42000,40,유통기한 없음,상온 보관 가능,"동파육, 곱창, 족발",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/h8FZ-1672193328950-40+%282%29.jpg,,
-그랑꼬또 청수,2,1,0,4,0,4,0,0,61500,12,유통기한 없음,상온 보관 가능,"게살 볶음밥, 봉골레 파스타, 굴 튀김",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/nJPE-1636942060442-%EA%B7%B8%EB%9E%91%EA%BC%AC%EB%98%90%20%EC%B2%AD%EC%88%98%20%ED%99%94%EC%9D%B4%ED%8A%B8%EC%99%80%EC%9D%B8.jpg,,
-바랑 탁,0,4,0,3,2,4,0,0,18000,15,제조일로부터 90일,냉장 보관,"족발, 불고기, 주꾸미 볶음",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/oyHr-1683184429542-thumbnail.jpg,,
-별바랑,1,3,0,4,1,5,0,0,34200,17.5,제조일로부터 180일,냉장 보관,"방어회, 감자전, 탕수육",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/64SS-1683184338818-thumbnail.jpg,,
-금설,3,0,4,4,0,0,0,0,35000,35,유통기한 없음,상온 보관 가능,"버섯 전골, 삼계탕, 농어회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/izr4-1660285384158-resize_-6.jpg,,
-미르아토 로제와인,2,4,0,2,0,3,3,2,18000,5,유통기한 없음,냉장 보관,"에그타르트, 토스트, 로제 파스타",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/M5jI-1663305113642-0.jpg,,
-사과와인,2,3,0,2,0,3,0,0,23000,7,유통기한 없음,직사광선을 피해 서늘한 곳에 보관,"월남쌈, 훈제오리 냉채, 분짜",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/s8PT-1670345629422-1.jpg,,
-복숭아와인,2,4,0,3,0,2,0,0,16000,12,유통기한 없음,직사광선을 피해 서늘한 곳에 보관,"롤 케이크, 마들렌, 광어회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/Y6Ji-1681463378255-peach%20%283%29-min.jpg,,
-금풍양조,0,3,0,3,1,2,0,0,30000,6.9,제조일로부터 30일,냉장 보관,"메밀 전병, 도토리묵 무침, 두부김치",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/4fpe-1652434954239-1.jpg,,
-선호 생막걸리,0,2,0,1,2,3,4,0,2125,6,제조일로부터 20일,냉장 보관,"두부구이, 나쵸, 해물 파전",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/jifZ-1657597677794-00.jpg,,
-김포특주,1,3,0,3,4,2,0,0,3600,15,제조일로부터 2년,직사광선을 피해 서늘한 곳에 보관,"간장 게장, 감자탕, 시금치 무침",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/dCC0-1657597631019-00.jpg,,
-김포 막걸리,0,2,0,1,2,3,4,0,2125,6,제조일로부터 20일,냉장 보관,"두부구이, 나쵸, 해물 파전",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/jifZ-1657597677794-00.jpg,,
-화주,3,0,3,2,0,0,0,0,64000,40,유통기한 없음,상온 보관 가능,"굴비, 곱창전골, 홍어 삼합",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/XpFS-1662101466971-0.jpg,,
-송이주,1,2,0,3,1,4,0,0,15000,13,제조일로부터 3년,상온 보관 가능,"두부구이, 광어회, 등심 스테이크",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/2TRY-1654855378047-thumb.jpg,,
-능이주,1,1,0,3,2,4,0,0,13500,13,제조일로부터 3년,직사광선을 피해 서늘한 곳에 보관,"막창, 시래기 무침, 족발",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/zHVf-1654855732966-thumb.jpg,,
-달홀진주25,3,0,2,2,0,0,0,0,13500,25,유통기한 없음,냉장 보관,"문어 숙회, 참소라, 봉골레 파스타",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/GnUs-1687311482122-%7F%7F%7F.jpg,,
-달홀진주40,3,0,4,4,0,0,0,0,19500,40,유통기한 없음,상온 보관 가능,"골뱅이 무침, 오일 파스타, 감바스",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/n4jH-1642728692094-1.jpg,,
-오롯이 복숭아,2,2,0,2,0,3,2,0,15000,9,유통기한 없음,냉장 보관,"과일치즈, 애플 파이, 크로아상",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/eSpM-1655441226949-thumb.jpg,,
-우주멜론미 스파클링 막걸리,0,4,0,1,1,1,4,0,6000,5,제조일로부터 90일,냉장 보관,"과일 샐러드, 카나페, 애플 파이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/62UN-1668150211070-0.jpg,,
-하타,1,2,0,2,4,2,0,0,20000,16,제조일로부터 180일,냉장 보관,"오뎅탕, 고등어구이, 생선회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/90HB-1661128019239-0.jpg,,
-겨울소주25,3,0,3,3,0,0,0,0,10000,25,유통기한 없음,상온 보관 가능,"매운탕, 삼겹살, 오돌뼈",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/pDC4-1672192898690-25-5.jpg,,
-겨울소주45,3,0,5,4,0,0,0,0,25000,45,유통기한 없음,상온 보관 가능,"버섯 전골, 삼계탕, 갈비찜",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/K9wG-1672192974489-45-4.jpg,,
-오산막걸리,0,2,0,4,2,2,0,0,4000,6,제조일로부터 30일,냉장 보관,"김치전, 계란말이, 견과류",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/HmCf-1656438760455-0.jpg,,
-여유25,3,0,3,3,0,0,0,0,13500,25,유통기한 없음,냉장 보관,"잡채, 육전, 두부부침",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/TiXY-1683182786282-thumbnail.jpg,,
-여유19,3,0,2,2,0,0,0,0,11200,19,유통기한 없음,상온 보관 가능,"소 불고기, 제육 볶음, 콩나물 무침",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/ayGA-1658114266997-1.jpg,,
-감천막걸리,0,3,0,4,1,2,0,0,7000,6,제조일로부터 60일,냉장 보관,"해물 라면, 돼지고기 김치찜, 국물 떡볶이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/e4Gn-1675411535686-1.jpg,,
-선비 진,3,0,5,4,0,0,0,0,40000,48,유통기한 없음,상온 보관 가능,"과일 샐러드, 카프레제, 문어 숙회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/wreZ-1674198355943-1.jpg,,
-토끼 소주(블랙),3,0,4,4,0,0,0,0,40000,40,유통기한 없음,상온 보관 가능,"크림 새우, 양꼬치, 꿔바로우",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/4wI9-1680502918953-rabbit+black+%282%29.jpg,,
-토끼 소주(화이트),3,0,2,2,0,0,0,0,30000,23,유통기한 없음,상온 보관 가능,"계란말이, 제육볶음, 동그랑땡",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/ofNF-1674196242112-1.jpg,,
-냥이05,0,3,0,2,1,3,0,0,6000,5,제조일로부터 60일,냉장 보관,"호박전, 새우튀김, 꿔바로우",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/bCTs-1631778967053-%EB%83%A5%EC%9D%B4%ED%83%81%EC%A3%BC+5%EB%8F%84+%282%29.jpg,,
-냥이09,0,3,0,3,3,3,0,0,8000,9,제조일로부터 60일,냉장 보관,"해물 파전, 양념 치킨, 간장 불고기",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/ABQR-1631779563506-%EB%83%A5%EC%9D%B4%ED%83%81%EC%A3%BC+9%EB%8F%84+%281%29.jpg,,
-냥이0 화이트,0,3,0,3,1,3,0,0,10000,10.5,제조일로부터 60일,냉장 보관,"메밀소바, 삼치구이, 백순대 볶음",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/ROi5-1674798733152-1.jpg,,
-대대포 막걸리,0,3,0,2,1,2,0,0,3800,6,제조일로부터 30일,냉장 보관,"양념 치킨, 불닭볶음면, 떡볶이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/6GX6-1629348033497-%EB%8C%80%EB%8C%80%ED%8F%AC_%EA%B8%B0%EC%A1%B4%EB%9D%BC%EB%B2%A8-2.jpg,,
-진맥소주 22%,3,0,2,3,0,0,0,0,22000,22,유통기한 없음,상온 보관 가능,"떡갈비, 수육, 전어회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/Jbzv-1625726727776-%EC%A7%84%EB%A7%A522-4.png,,
-진맥소주 40%,3,0,4,4,0,0,0,0,49000,40,유통기한 없음,상온 보관 가능,"수육, 참치회, 하몽",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/wD5v-1626589439410-%EC%A7%84%EB%A7%A540-6.png,,
-진맥소주 53%,3,0,5,5,5,0,0,0,52000,53,유통기한 없음,상온 보관 가능,"수육, 참치회, 하몽",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/EoKZ-1626589456472-%EC%A7%84%EB%A7%A553-3.png,,
-볼빨간막걸리 10,0,2,0,4,1,4,0,0,8000,10,제조일로부터 60일,냉장 보관,"맥앤치즈, 돼지국밥, 닭곰탕",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/RcYR-1652435657056-1.jpg,,
-밀담 24,3,0,3,4,0,0,0,0,15000,24,유통기한 없음,상온 보관 가능,"아몬드, 치즈플레이트, 파인애플",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/1BcY-1654855665164-thumb.jpg,,
-밀담40,3,0,3,4,0,0,0,0,19900,40,유통기한 없음,상온 보관 가능,"아몬드, 치즈플레이트, 파인애플",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/r9a3-1653530958733-mildam40_thumbnail.jpg,,
-라봉,0,2,0,2,1,4,4,0,6000,5.5,제조일로부터 30일,냉장 보관,"짜장면, 크림 파스타, 피자",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/rmuu-1658114538962-1.jpg,,
-참주가 솔 막걸리,0,2,0,2,1,2,3,0,2500,5.5,제조일로부터 30일,냉장 보관,"삼계탕, 버섯구이, 차돌박이 숙주 찜",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/ZXLH-1658114487703-1.jpg,,
-진도 백주,3,0,4,4,0,0,0,0,23000,38,유통기한 없음,상온 보관 가능,"까르보나라, 크림 새우, 크림 뇨끼",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/UTA6-1682479792760-%EC%8D%B8%EB%84%A4%EC%9D%BC-2.jpg,,
-신애유자,2,3,0,3,0,4,3,0,5900,5,제조일로부터 2년,상온 보관 가능,"닭가슴살 샐러드, 양념 치킨, 페퍼로니 피자",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/5NGV-1634530584930-%EB%8C%84%EC%8B%B1%EC%82%AC%EC%9D%B4%EB%8D%94%20%EC%8B%A0%EC%95%A0%EC%9C%A0%EC%9E%901.jpg,,
-루드베리,2,3,0,3,0,4,3,0,5900,4.5,제조일로부터 2년,직사광선을 피해 서늘한 곳에 보관,"크림 파스타, 카프레제, 피자",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/QBcG-1654563486179-thumb.jpg,,
-요새로제,2,4,0,3,0,4,3,1,17900,6.4,제조일로부터 2년,상온 보관 가능,"물회, 라자냐, 치즈 케이크",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/IUBI-1654568797609-thumb.jpg,,
-댄싱사이더 치키피치,2,3,0,3,0,4,3,0,6900,4.5,제조일로부터 2년,상온 보관 가능,"과일 샐러드, 페퍼로니 피자, 복숭아 타르트",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/y4ka-1635929191182-%EC%B9%98%ED%82%A4%ED%94%BC%ED%82%A4.jpg,,
-원매,3,5,3,3,0,0,0,0,25000,15,유통기한 없음,상온 보관 가능,"골뱅이 무침, 초계국수, 칠리 새우",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/vJ1i-1654249568912-1.jpg,,
-서울의 밤 40%,3,0,3,4,0,0,0,0,19000,40,유통기한 없음,상온 보관 가능,"크림 떡볶이, 게살 계란탕, 치즈 감자전",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/MHj9-1671688368781-sb.jpg,,
-서울의 밤 25%,3,1,2,2,0,0,0,0,7900,25,유통기한 없음,상온 보관 가능,"샤브샤브, 광어회, 주꾸미 볶음",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/eluC-1637227145655-%EC%84%9C%EC%9A%B8%EC%9D%98%EB%B0%A4.jpg,,
-샤토미소 랑 화이트와인,2,3,0,2,0,4,0,0,22000,12,유통기한 없음,냉장 보관,"LA갈비, 깐쇼새우, 감귤 타르트",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/iHoy-1638522991814-%EC%83%A4%ED%86%A0%EB%AF%B8%EC%86%8C%20%EB%9E%91%20%ED%99%94%EC%9D%B4%ED%8A%B8%20%EC%99%80%EC%9D%B8%28%EC%8A%A4%EC%9C%84%ED%8A%B8%29.jpg,,
-샤토미소 애플 와인,2,3,0,2,0,4,0,2,22000,9,유통기한 없음,상온 보관 가능,"수육, 월남쌈, 훈제오리 샐러드",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/UcPl-1638528836707-%EC%83%A4%ED%86%A0%EB%AF%B8%EC%86%8C%20%EC%95%A0%ED%94%8C%20%EC%99%80%EC%9D%B8-2.jpg,,
-샤토미소 로제 와인,2,3,0,3,0,3,0,2,22000,12,유통기한 없음,상온 보관 가능,"과일치즈, 불고기, 로제 떡볶이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/Q6pS-1637544263955-%EC%83%A4%ED%86%A0%EB%AF%B8%EC%86%8C%20%EB%A1%9C%EC%A0%9C%20%EC%99%80%EC%9D%B8%20%EC%8A%A4%EC%9C%84%ED%8A%B8-2.jpg,,
-샤토미소 아이스와인,2,5,0,4,0,4,0,0,120000,12,유통기한 없음,상온 보관 가능,"치즈 케이크, 핑거푸드, 가래떡 구이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/hbeQ-1638867956762-%EC%83%A4%ED%86%A0%EB%AF%B8%EC%86%8C%20%ED%80%B8%20%EC%95%84%EC%9D%B4%EC%8A%A4%20%EC%99%80%EC%9D%B8.jpg,,
-샤토미소 웨딩 자두와인,2,3,0,3,0,4,0,2,22000,12,유통기한 없음,상온 보관 가능,"연어 스테이크, 월남쌈, 오징어 튀김",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/KNBS-1640251277612-%EC%83%A4%ED%86%A0%EB%AF%B8%EC%86%8C%20%EC%9B%A8%EB%94%A9.jpg,,
-DOK막걸리,0,4,0,3,1,2,0,0,3300,6,제조일로부터 30일,냉장 보관,"닭발, 아귀찜, 주꾸미 볶음",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/csEs-1670995060408-0.jpg,,
-얼떨결에 퍼플,0,3,0,2,1,4,4,0,9300,6,제조일로부터 40일,냉장 보관,"까르보나라, 맥앤치즈, 피자",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/utRL-1643388270514-1jpg.jpg,,
-부안참뽕와인,2,4,0,3,0,2,0,2,18000,13,유통기한 없음,직사광선을 피해 서늘한 곳에 보관,"블루베리 치즈 케이크, 장어구이, 떡볶이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/Qc6X-1656438704218-0.jpg,,
-메밀로,3,0,4,4,0,0,0,0,22000,25,유통기한 없음,상온 보관 가능,"막국수, 물회, 미나리 삼겹살",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/qWT8-1658990465819-1.jpg,,
-희양산 막걸리 9도,0,1,0,2,2,3,0,0,7300,9,제조일로부터 30일,냉장 보관,"탕수육, 칠리 새우, 양념 치킨",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/Wr04-1678775559753-doosool+%281%29.jpg,,
-겨울소주 25,3,0,3,3,0,0,0,0,10000,25,유통기한 없음,상온 보관 가능,"매운탕, 삼겹살, 오돌뼈",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/pDC4-1672192898690-25-5.jpg,,
-설하담,0,2,0,4,1,4,3,0,11000,7,제조일로부터 30일,냉장 보관,"낙지 볶음, 제육 볶음, 찜닭",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/z2xD-1677820053988-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-03-03%20%EC%98%A4%ED%9B%84%202.07.13.png,,
+자연담은 복분자막걸리,0,4,0,2,1,2,0,0,3250,6,제조일로부터 1년,냉장 보관,"전복 버터구이, 삼계탕, 장어구이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/mcu5-1645437591022-%EC%9E%90%EC%97%B0%EB%8B%B4%EC%9D%80%20%EB%B3%B5%EB%B6%84%EC%9E%90%20%EB%A7%89%EA%B1%B8%EB%A6%AC-7.jpg,#부드러운 달콤함 #기력 회복에는 복분자,생쌀 발효를 거쳐 만든 복분자 막걸리
+지란지교,0,4,0,4,2,3,0,0,16000,12,제조일로부터 90일,냉장 보관,"불족발, 곱창, 훈제오리 냉채",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/9gfk-1633669822360-%EC%A7%80%EB%9E%80%EC%A7%80%EA%B5%90+%ED%83%81%EC%A3%BC1.jpg,#짜릿하고 새콤한 맛과 향 #부부가 만든 술,진짜 수제 막걸리의 품격
+지란지교 무화과 탁주,0,4,0,4,2,3,0,0,17000,12,제조일로부터 90일,냉장 보관,"불족발, 곱창, 훈제오리 냉채",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/IrS1-1633053193961-%EC%A7%80%EB%9E%80%EC%A7%80%EA%B5%90+%EB%AC%B4%ED%99%94%EA%B3%BC1.jpg,#나 혼자 XX 방송에 나온 술! #달콤한 무화과의 풍미 #부부가 함께 만든 술,국내 최초 무화과가 들어간 수제 막걸리
+지란지교 약청주,1,3,0,3,2,4,0,0,25000,15,제조일로부터 180일,냉장 보관,"간장 치킨, 굴국, 버섯 볶음",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/0627-1654681288573-thumb.jpg,#진득한 달콤씁쓸 #부부가 함께 만든 술,수제 방식의 달콤한 약주
+꽃 와인,2,3,0,3,0,3,0,0,19000,11.5,유통기한 없음,직사광선을 피해 서늘한 곳에 보관,,https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/CIwg-1660891902410-1.jpg,#청포도 와인 #이육사 꽃,새콤달콤한 포도향이 피어오르는 화이트 와인
+로제와인,2,3,0,3,0,3,0,2,22000,12,유통기한 없음,상온 보관 가능,"과일치즈, 불고기, 로제 떡볶이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/Q6pS-1637544263955-%EC%83%A4%ED%86%A0%EB%AF%B8%EC%86%8C%20%EB%A1%9C%EC%A0%9C%20%EC%99%80%EC%9D%B8%20%EC%8A%A4%EC%9C%84%ED%8A%B8-2.jpg,#캠벨포도로 만든 로제 와인 #딸기잼같이 달콤한 맛,장미꽃 향 가득한 새콤달콤 로제 와인
+모리,3,0,2,3,0,0,0,0,9800,19,유통기한 없음,상온 보관 가능,"버섯 전골, 굴, 오징어 숙회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/43PR-1680503975541-mori+%282%29.jpg,#은은한 바닐라 풍미 #보리로 만든 소주,오크 숙성으로 중후한 풍미를 더한 보리 소주
+고도리 화이트와인 스위트,2,3,0,3,0,3,0,0,20000,10.5,유통기한 없음,직사광선을 피해 서늘한 곳에 보관,"조개구이, 닭가슴살, 흰살생선회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/B68U-1645516585523-%EA%B3%A0%EB%8F%84%EB%A6%AC%20%ED%99%94%EC%9D%B4%ED%8A%B8%20%EC%99%80%EC%9D%B8%20%EC%8A%A4%EC%9C%84%ED%8A%B8-2.jpg,#거봉으로 만든 와인 #예쁜 색감,화이트와인이 화이트가 아니네?
+고도리 청수 와인,2,4,0,2,0,3,0,0,25000,10.5,유통기한 없음,직사광선을 피해 서늘한 곳에 보관,"과일 샐러드, 고르곤졸라 피자, 흰살생선회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/0TWZ-1631758801622-%EA%B3%A0%EB%8F%84%EB%A6%AC+%EC%B2%AD%EC%88%98+%ED%99%94%EC%9D%B4%ED%8A%B8+%EC%99%80%EC%9D%B8-1.jpg,#청수 화이트와인 #오크숙성,국내 유일의 오크숙성을 거친 청수와인
+고도리 복숭아와인,2,4,0,2,0,4,0,2,23000,6.5,유통기한 없음,직사광선을 피해 서늘한 곳에 보관,,https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/xdPQ-1642143289464-gdr%20bsa0.jpg,#복숭아로 만든 와인 #아이스 와인,뭐야? 주스가 아니라 술이였어?
+동학 1957,1,2,0,2,3,4,0,0,3800,13,제조일로부터 2년,냉장 보관,"들깨수제비, 궁중 떡볶이, 된장찌개",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/TOnv-1655794504098-1.jpg,#구수한 쌀의 맛 #담백한 맛 뒤 느껴지는 쌉쌀함,평창동계올림픽 공식 판매주로 선정된 우리 쌀로 빚은 청주
+려,3,0,4,4,0,0,0,0,42000,40,유통기한 없음,상온 보관 가능,"동파육, 곱창, 족발",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/h8FZ-1672193328950-40+%282%29.jpg,#고구마로 만든 소주 #맛있는 '려'석들,코 끝에 자리잡는 달큰한 고구마 향
+그랑꼬또 청수,2,1,0,4,0,4,0,0,61500,12,유통기한 없음,상온 보관 가능,"게살 볶음밥, 봉골레 파스타, 굴 튀김",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/nJPE-1636942060442-%EA%B7%B8%EB%9E%91%EA%BC%AC%EB%98%90%20%EC%B2%AD%EC%88%98%20%ED%99%94%EC%9D%B4%ED%8A%B8%EC%99%80%EC%9D%B8.jpg,#드라이한 화이트 와인 #국산 청포도 청수,대부도 포도밭에서 만들어지는 와인의 진가
+바랑 탁,0,4,0,3,2,4,0,0,18000,15,제조일로부터 90일,냉장 보관,"족발, 불고기, 주꾸미 볶음",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/oyHr-1683184429542-thumbnail.jpg,#전통누룩 한 스푼 #생쌀발효,안동의 양반집안에서 만들어지는 새콤달콤 삼양주
+별바랑,1,3,0,4,1,5,0,0,34200,17.5,제조일로부터 180일,냉장 보관,"방어회, 감자전, 탕수육",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/64SS-1683184338818-thumbnail.jpg,#세계가 인정한 술 #맛있는 산미,생쌀 발효로 만든 수제 약주
+금설,3,0,4,4,0,0,0,0,35000,35,유통기한 없음,상온 보관 가능,"버섯 전골, 삼계탕, 농어회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/izr4-1660285384158-resize_-6.jpg,#금빛 눈보라 #조명도 받아가세요,"이젠, 분위기에도 증류주에요!"
+미르아토 로제와인,2,4,0,2,0,3,3,2,18000,5,유통기한 없음,냉장 보관,"에그타르트, 토스트, 로제 파스타",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/M5jI-1663305113642-0.jpg,#마치 딸기잼을 먹은 듯 진한 달콤함 #가볍게 한잔하고 싶을 때,세 가지 포도를 블렌딩해서 만든 탄산 톡톡 스파클링 와인
+사과와인,2,3,0,2,0,3,0,0,23000,7,유통기한 없음,직사광선을 피해 서늘한 곳에 보관,"월남쌈, 훈제오리 냉채, 분짜",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/s8PT-1670345629422-1.jpg,#레몬주스 마시듯 #깔끔하게 떨어지는 새콤함,양조장에서 직접 재배한 사과로 만든 드라이한 와인
+복숭아와인,2,4,0,3,0,2,0,0,16000,12,유통기한 없음,직사광선을 피해 서늘한 곳에 보관,"롤 케이크, 마들렌, 광어회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/Y6Ji-1681463378255-peach%20%283%29-min.jpg,#복숭아로 만든 와인 #달콤한 백도 한가득,달콤한 복숭아 한가득 들어간 복숭아 와인
+금풍양조,0,3,0,3,1,2,0,0,30000,6.9,제조일로부터 30일,냉장 보관,"메밀 전병, 도토리묵 무침, 두부김치",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/4fpe-1652434954239-1.jpg,#우리나라 최초 비건 막걸리 #은은한 단맛과 가벼운 막걸리를 좋아한다면,강화도에서 3대째 운영하는 양조장의 막걸리
+선호 생막걸리,0,2,0,1,2,3,4,0,2125,6,제조일로부터 20일,냉장 보관,"두부구이, 나쵸, 해물 파전",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/jifZ-1657597677794-00.jpg,#깔끔함 #드라이한,누구나 다 선호 할 만한 맛
+김포특주,1,3,0,3,4,2,0,0,3600,15,제조일로부터 2년,직사광선을 피해 서늘한 곳에 보관,"간장 게장, 감자탕, 시금치 무침",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/dCC0-1657597631019-00.jpg,#부담없이 마시기 좋아요 #고소달콤,통진미로 빚은 김포의 특별한 술
+화주,3,0,3,2,0,0,0,0,64000,40,유통기한 없음,상온 보관 가능,"굴비, 곱창전골, 홍어 삼합",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/XpFS-1662101466971-0.jpg,#고소한 증류주 #고도수,천비향 약주를 증류한 소주
+송이주,1,2,0,3,1,4,0,0,15000,13,제조일로부터 3년,상온 보관 가능,"두부구이, 광어회, 등심 스테이크",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/2TRY-1654855378047-thumb.jpg,#꽃‘송이’가 #그래 그래 피었네,자연산 송이의 상쾌함을 느껴보세요.
+능이주,1,1,0,3,2,4,0,0,13500,13,제조일로부터 3년,직사광선을 피해 서늘한 곳에 보관,"막창, 시래기 무침, 족발",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/zHVf-1654855732966-thumb.jpg,#올림픽 만찬주 #약이 되는 술,눈 감고 마시면 ‘화이트 와인’으로 알아유~
+달홀진주25,3,0,2,2,0,0,0,0,13500,25,유통기한 없음,냉장 보관,"문어 숙회, 참소라, 봉골레 파스타",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/GnUs-1687311482122-%7F%7F%7F.jpg,#달콤한 향 #고소한 여운,보배처럼 한 방울씩 정성스레 내린 강원도 고성의 증류주
+달홀진주40,3,0,4,4,0,0,0,0,19500,40,유통기한 없음,상온 보관 가능,"골뱅이 무침, 오일 파스타, 감바스",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/n4jH-1642728692094-1.jpg,#달달한 맛에 그렇지 못한 작열감 #시원한 배 향,고성에서 만들어지는 보석 같은 술
+오롯이 복숭아,2,2,0,2,0,3,2,0,15000,9,유통기한 없음,냉장 보관,"과일치즈, 애플 파이, 크로아상",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/eSpM-1655441226949-thumb.jpg,#복숭아 잼처럼 진득한 단맛 #탄산이 톡톡,복숭아의 달콤함을 오롯이 담아냈어요~
+우주멜론미 스파클링 막걸리,0,4,0,1,1,1,4,0,6000,5,제조일로부터 90일,냉장 보관,"과일 샐러드, 카나페, 애플 파이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/62UN-1668150211070-0.jpg,#병째로 들이켜고 싶은 #청량감 넘치는 스파클링 막걸리,곡성의 머스크멜론으로 만든 달달한 스파클링 멜론 막걸리
+하타,1,2,0,2,4,2,0,0,20000,16,제조일로부터 180일,냉장 보관,"오뎅탕, 고등어구이, 생선회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/90HB-1661128019239-0.jpg,#백제에서 일본으로 #드라이한 청주,이 술은 백제에서 최초로 시작되어...
+겨울소주25,3,0,3,3,0,0,0,0,10000,25,유통기한 없음,상온 보관 가능,"매운탕, 삼겹살, 오돌뼈",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/pDC4-1672192898690-25-5.jpg,#부드러움 #곡물향,"겨울소주 1병, 희석식 소주 10병 안 부럽다"
+겨울소주45,3,0,5,4,0,0,0,0,25000,45,유통기한 없음,상온 보관 가능,"버섯 전골, 삼계탕, 갈비찜",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/K9wG-1672192974489-45-4.jpg,#2번의 겨울이 담긴 술 #쌀소주의 감칠맛,겨울에 빚어 이듬해 겨울에 완성되는 기다림의 소주
+오산막걸리,0,2,0,4,2,2,0,0,4000,6,제조일로부터 30일,냉장 보관,"김치전, 계란말이, 견과류",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/HmCf-1656438760455-0.jpg,#달지 않아요 #담백한,플레인 요거트 같은 가벼운 막걸리
+여유25,3,0,3,3,0,0,0,0,13500,25,유통기한 없음,냉장 보관,"잡채, 육전, 두부부침",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/TiXY-1683182786282-thumbnail.jpg,#코가 뻥 뚫리는 화사함 #여유 한 잔 챙겨보세요,논산에서 재배한 쌀로 만든 달콤하고 화사한 증류주
+여유19,3,0,2,2,0,0,0,0,11200,19,유통기한 없음,상온 보관 가능,"소 불고기, 제육 볶음, 콩나물 무침",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/ayGA-1658114266997-1.jpg,#담백 깔끔 쌀 소주 #반주로 제격,우렁이농법으로 재배한 무농약 쌀로 만든 소주
+감천막걸리,0,3,0,4,1,2,0,0,7000,6,제조일로부터 60일,냉장 보관,"해물 라면, 돼지고기 김치찜, 국물 떡볶이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/e4Gn-1675411535686-1.jpg,#시원한 참외 향 #식혜처럼 가벼운 단맛,부산 감천문화마을 특구 사업을 위해 출시된 막걸리
+선비 진,3,0,5,4,0,0,0,0,40000,48,유통기한 없음,상온 보관 가능,"과일 샐러드, 카프레제, 문어 숙회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/wreZ-1674198355943-1.jpg,#모히토 같은 상쾌함 #은은한 달콤함,올곧은 자세로 학문에 매진하는 선비의 정직함을 닮은 진
+토끼 소주(블랙),3,0,4,4,0,0,0,0,40000,40,유통기한 없음,상온 보관 가능,"크림 새우, 양꼬치, 꿔바로우",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/4wI9-1680502918953-rabbit+black+%282%29.jpg,#중식과 잘 어울리는 #화사한 향의 쌀 증류주,미국인이 출시한 우리나라 전통 증류식 소주
+토끼 소주(화이트),3,0,2,2,0,0,0,0,30000,23,유통기한 없음,상온 보관 가능,"계란말이, 제육볶음, 동그랑땡",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/ofNF-1674196242112-1.jpg,#물처럼 편안한 목 넘김 #가볍고 깔끔한 맛,미국인 손에 의해 탄생한 우리나라 증류주!
+냥이탁주5,0,3,0,2,1,3,0,0,6000,5,제조일로부터 60일,냉장 보관,"호박전, 새우튀김, 꿔바로우",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/bCTs-1631778967053-%EB%83%A5%EC%9D%B4%ED%83%81%EC%A3%BC+5%EB%8F%84+%282%29.jpg,#새콤달콤한 고양이 막걸리 #귀여운 술을 찾는다면,새콤달콤한 고양이 막걸리예요
+냥이탁주9,0,3,0,3,3,3,0,0,8000,9,제조일로부터 60일,냉장 보관,"해물 파전, 양념 치킨, 간장 불고기",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/ABQR-1631779563506-%EB%83%A5%EC%9D%B4%ED%83%81%EC%A3%BC+9%EB%8F%84+%281%29.jpg,#새콤달콤냥 #집사 전용 막걸리,5가지 부재료를 넣어 만든 새콤달콤한 막걸리
+냥이탁주 화이트,0,3,0,3,1,3,0,0,10000,10.5,제조일로부터 60일,냉장 보관,"메밀소바, 삼치구이, 백순대 볶음",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/ROi5-1674798733152-1.jpg,#솜이불을 덮은 듯 #부드러운 바디감,고양시에서 오직 쌀・물・누룩으로만 만드는 부드러운 막걸리
+대대포 막걸리,0,3,0,2,1,2,0,0,3800,6,제조일로부터 30일,냉장 보관,"양념 치킨, 불닭볶음면, 떡볶이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/6GX6-1629348033497-%EB%8C%80%EB%8C%80%ED%8F%AC_%EA%B8%B0%EC%A1%B4%EB%9D%BC%EB%B2%A8-2.jpg,#꿀 먹은 막걸리 #라벨만큼은 죠니워커,벌꿀이 녹아 있는 가볍고 달콤한 막걸리
+진맥소주 22%,3,0,2,3,0,0,0,0,22000,22,유통기한 없음,상온 보관 가능,"떡갈비, 수육, 전어회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/Jbzv-1625726727776-%EC%A7%84%EB%A7%A522-4.png,#고소한 소주 #빵 같은 소주,우리나라 전통소주에요. 근데 이제 고소한 ‘밀’을 곁들인
+진맥소주 40%,3,0,4,4,0,0,0,0,49000,40,유통기한 없음,상온 보관 가능,"수육, 참치회, 하몽",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/wD5v-1626589439410-%EC%A7%84%EB%A7%A540-6.png,#통밀로 만든 소주 #감칠맛이 일품,"서민갑부에 나온 그 양조장, 그 술 맞습니다"
+진맥소주 53%,3,0,5,5,5,0,0,0,52000,53,유통기한 없음,상온 보관 가능,"수육, 참치회, 하몽",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/EoKZ-1626589456472-%EC%A7%84%EB%A7%A553-3.png,#SFWSC 증류주 대회 1등 #감칠맛 끝판왕,"서민갑부에 나온 그 양조장, 그 술 맞습니다"
+볼빨간막걸리 10,0,2,0,4,1,4,0,0,8000,10,제조일로부터 60일,냉장 보관,"맥앤치즈, 돼지국밥, 닭곰탕",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/RcYR-1652435657056-1.jpg,#부산 찹쌀로 만든 무감미료 막걸리 #새콤달콤하고 구수해요,자꾸 들이켜다 보면 금세 볼이 빨개질 거예요~
+밀담 24,3,0,3,4,0,0,0,0,15000,24,유통기한 없음,상온 보관 가능,"아몬드, 치즈플레이트, 파인애플",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/1BcY-1654855665164-thumb.jpg,#럼콕으로 마시면 꿀맛 #홈바 필수템,해적의 술 럼(RUM) 맞아요!
+밀담40,3,0,3,4,0,0,0,0,19900,40,유통기한 없음,상온 보관 가능,"아몬드, 치즈플레이트, 파인애플",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/r9a3-1653530958733-mildam40_thumbnail.jpg,#럼콕으로 마시면 꿀맛 #홈바 필수템,해적의 술 럼(RUM) 맞아요!
+라봉,0,2,0,2,1,4,4,0,6000,5.5,제조일로부터 30일,냉장 보관,"짜장면, 크림 파스타, 피자",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/rmuu-1658114538962-1.jpg,#상큼함이 따봉 #짜릿한 탄산도 따봉,상큼한 맛을 좋아하신다면 알라봉할 수밖에 없을 거에요~
+참주가 솔 막걸리,0,2,0,2,1,2,3,0,2500,5.5,제조일로부터 30일,냉장 보관,"삼계탕, 버섯구이, 차돌박이 숙주 찜",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/ZXLH-1658114487703-1.jpg,#페퍼민트 차를 마신 듯 #뼛속까지 시원해지는 개운함,직접 심은 소나무에서 채취한 솔잎으로 만든 솔 막걸리
+진도 백주,3,0,4,4,0,0,0,0,23000,38,유통기한 없음,상온 보관 가능,"까르보나라, 크림 새우, 크림 뇨끼",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/UTA6-1682479792760-%EC%8D%B8%EB%84%A4%EC%9D%BC-2.jpg,#강렬한 작열감을 좋아하신다면 #진도홍주와 형제 사이,진도홍주의 백주 버전이에요
+신애유자,2,3,0,3,0,4,3,0,5900,5,제조일로부터 2년,상온 보관 가능,"닭가슴살 샐러드, 양념 치킨, 페퍼로니 피자",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/5NGV-1634530584930-%EB%8C%84%EC%8B%B1%EC%82%AC%EC%9D%B4%EB%8D%94%20%EC%8B%A0%EC%95%A0%EC%9C%A0%EC%9E%901.jpg,#레모네이드에 사과 한 조각 #유자 사이더,홍신애 요리연구소 X 댄싱사이더
+루드베리,2,3,0,3,0,4,3,0,5900,4.5,제조일로부터 2년,직사광선을 피해 서늘한 곳에 보관,"크림 파스타, 카프레제, 피자",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/QBcG-1654563486179-thumb.jpg,#사이더에_딸기_바질_추가요 #다채로운_허브향,애플사이더가 딸기로 돌아왔습니다!
+요새로제,2,4,0,3,0,4,3,1,17900,6.4,제조일로부터 2년,상온 보관 가능,"물회, 라자냐, 치즈 케이크",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/IUBI-1654568797609-thumb.jpg,#애플사이더 #사과 오미자 블렌딩,오미자와 사과를 블렌딩한 샴페인같은 로제 시드르
+댄싱사이더 치키피치,2,3,0,3,0,4,3,0,6900,4.5,제조일로부터 2년,상온 보관 가능,"과일 샐러드, 페퍼로니 피자, 복숭아 타르트",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/y4ka-1635929191182-%EC%B9%98%ED%82%A4%ED%94%BC%ED%82%A4.jpg,#복숭아 애플사이더 #댄싱사이더 시그니쳐,복숭아와 사과의 달콤한 변신!
+원매,3,5,3,3,0,0,0,0,25000,15,유통기한 없음,상온 보관 가능,"골뱅이 무침, 초계국수, 칠리 새우",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/vJ1i-1654249568912-1.jpg,#달콤 쌉싸름 #입안 가득 차오르는 매실 향,원매 한잔으로 매실의 근원을 느껴보세요
+서울의 밤 40%,3,0,3,4,0,0,0,0,19000,40,유통기한 없음,상온 보관 가능,"크림 떡볶이, 게살 계란탕, 치즈 감자전",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/MHj9-1671688368781-sb.jpg,#칵테일에 잘 어울리는 술 #달콤한 매실 향 가득!,오늘 '서울의 밤'은 맑고 깨끗합니다.
+서울의 밤 25%,3,1,2,2,0,0,0,0,7900,25,유통기한 없음,상온 보관 가능,"샤브샤브, 광어회, 주꾸미 볶음",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/eluC-1637227145655-%EC%84%9C%EC%9A%B8%EC%9D%98%EB%B0%A4.jpg,#매실로 만든 한국의 진(GIN) #부드럽고 깔끔하게,"늦은 밤, 어느 안주와도 어울리는 술"
+샤토미소 랑 화이트와인,2,3,0,2,0,4,0,0,22000,12,유통기한 없음,냉장 보관,"LA갈비, 깐쇼새우, 감귤 타르트",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/iHoy-1638522991814-%EC%83%A4%ED%86%A0%EB%AF%B8%EC%86%8C%20%EB%9E%91%20%ED%99%94%EC%9D%B4%ED%8A%B8%20%EC%99%80%EC%9D%B8%28%EC%8A%A4%EC%9C%84%ED%8A%B8%29.jpg,#달콤한 꽃 향기 #청포랑과 청수의 콜라보,청수와 머스캣 알렉산드리아로 블랜딩한 화이트와인
+샤토미소 애플 와인,2,3,0,2,0,4,0,2,22000,9,유통기한 없음,상온 보관 가능,"수육, 월남쌈, 훈제오리 샐러드",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/UcPl-1638528836707-%EC%83%A4%ED%86%A0%EB%AF%B8%EC%86%8C%20%EC%95%A0%ED%94%8C%20%EC%99%80%EC%9D%B8-2.jpg,#저절로 미소 짓게 되는 맛 #갓 딴 사과의 싱그러움,가을 감성 가득 담은 달콤한 사과 와인
+샤토미소 로제 와인,2,3,0,3,0,3,0,2,22000,12,유통기한 없음,상온 보관 가능,"과일치즈, 불고기, 로제 떡볶이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/Q6pS-1637544263955-%EC%83%A4%ED%86%A0%EB%AF%B8%EC%86%8C%20%EB%A1%9C%EC%A0%9C%20%EC%99%80%EC%9D%B8%20%EC%8A%A4%EC%9C%84%ED%8A%B8-2.jpg,#캠벨포도로 만든 로제 와인 #딸기잼같이 달콤한 맛,장미꽃 향 가득한 새콤달콤 로제 와인
+샤토미소 아이스와인,2,5,0,4,0,4,0,0,120000,12,유통기한 없음,상온 보관 가능,"치즈 케이크, 핑거푸드, 가래떡 구이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/hbeQ-1638867956762-%EC%83%A4%ED%86%A0%EB%AF%B8%EC%86%8C%20%ED%80%B8%20%EC%95%84%EC%9D%B4%EC%8A%A4%20%EC%99%80%EC%9D%B8.jpg,#샤인머스캣과 청수로 만들어요 #꿀처럼 농밀한 단맛,"극강의 단맛, 마치 꿀 같은 와인이에요."
+샤토미소 웨딩 자두와인,2,3,0,3,0,4,0,2,22000,12,유통기한 없음,상온 보관 가능,"연어 스테이크, 월남쌈, 오징어 튀김",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/KNBS-1640251277612-%EC%83%A4%ED%86%A0%EB%AF%B8%EC%86%8C%20%EC%9B%A8%EB%94%A9.jpg,#자두로 만든 새콤한 와인 #자두나무의 꽃말은 순백,자두로 만든 와인의 싱그러운 산미를 만나보세요
+DOK막걸리,0,4,0,3,1,2,0,0,3300,6,제조일로부터 30일,냉장 보관,"닭발, 아귀찜, 주꾸미 볶음",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/csEs-1670995060408-0.jpg,#탄산없는 부드러운 막걸리 #달콤하게 술술 넘어가요,벌컥벌컥 마시기 좋은 부드러운 생 탁주
+얼떨결에 퍼플,0,3,0,2,1,4,4,0,9300,6,제조일로부터 40일,냉장 보관,"까르보나라, 맥앤치즈, 피자",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/utRL-1643388270514-1jpg.jpg,#라일락 빛깔 #새콤달콤 포도 스파클링,얼떨결에 마셔봤는데... 너무 맛있잖아?
+부안참뽕와인,2,4,0,3,0,2,0,2,18000,13,유통기한 없음,직사광선을 피해 서늘한 곳에 보관,"블루베리 치즈 케이크, 장어구이, 떡볶이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/Qc6X-1656438704218-0.jpg,#오디로 만든 와인 #오디의 순우리말 참뽕,부안의 오디로 만든 스위트 와인
+메밀로,3,0,4,4,0,0,0,0,22000,25,유통기한 없음,상온 보관 가능,"막국수, 물회, 미나리 삼겹살",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/qWT8-1658990465819-1.jpg,#고소한 메밀차의 풍미 #메밀로 만든 메밀로,강원도 홍천에서 직접 농사지은 메밀로 만든 증류주
+희양산 막걸리 9도,0,1,0,2,2,3,0,0,7300,9,제조일로부터 30일,냉장 보관,"탕수육, 칠리 새우, 양념 치킨",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/Wr04-1678775559753-doosool+%281%29.jpg,#부담스럽지 않은 산미를 찾는다면 #가볍고 산뜻해요,막걸리 라벨도 예술 작품처럼 감상해보세요!
+설하담,0,2,0,4,1,4,3,0,11000,7,제조일로부터 30일,냉장 보관,"낙지 볶음, 제육 볶음, 찜닭",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/z2xD-1677820053988-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-03-03%20%EC%98%A4%ED%9B%84%202.07.13.png,#눈처럼 포근해요 #요거트 같은 새콤달콤함,부산에서 만든 프리미엄 무첨가물 막걸리
 진맥 소주,3,0,2,3,0,0,0,0,22000,22,유통기한 없음,상온 보관 가능,"떡갈비, 수육, 전어회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/Jbzv-1625726727776-%EC%A7%84%EB%A7%A522-4.png,,
 매실향기 담은 술,1,3,0,3,3,4,0,0,25920,14,제조일로부터 90일,냉장 보관,"방어회, 감자전, 탕수육",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/6txz-1619164915689-%EB%A7%A4%ED%96%A5%EC%88%A0%20%EC%95%BD%EC%A3%BC.jpg,,
 명인 안동소주 22%,3,0,3,2,0,0,0,0,5000,22,유통기한 없음,상온 보관 가능,"고등어구이, 소고기 등심구이, 찜닭",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/nfB4-1683875394449-%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg,,
@@ -95,7 +93,7 @@ DOK막걸리,0,4,0,3,1,2,0,0,3300,6,제조일로부터 30일,냉장 보관,"닭�
 왕율주,3,0,4,3,0,0,0,0,12000,33,유통기한 없음,상온 보관 가능,"딱새우 회, 전어회, 갈비 구이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/pfcY-1654681157885-thumb.jpg,,
 라라,2,1,0,3,0,4,0,0,25000,12,유통기한 없음,상온 보관 가능,"오징어 초무침, 뿌팟퐁커리, 생선까스",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/Wstx-1653639444866-1.jpg,,
 비원,2,1,0,3,0,4,0,2,18000,13,유통기한 없음,상온 보관 가능,"크림 새우, 맥앤치즈, 치즈 케이크",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/A9KR-1668152986297-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202022-11-11%20%EC%98%A4%ED%9B%84%204.49.37.png,,
-삼양춘 1,1,3,0,3,3,3,0,0,17500,15,제조일로부터 90일,냉장 보관,"과일치즈, 조개찜, 연어초밥",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/gXOc-1662364336049-0.jpg,,
+삼양춘 약청주,1,3,0,3,3,3,0,0,17500,15,제조일로부터 90일,냉장 보관,"과일치즈, 조개찜, 연어초밥",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/gXOc-1662364336049-0.jpg,,
 벗이랑 강황,0,3,0,4,3,3,0,0,12000,12,제조일로부터 90일,냉장 보관,"바지락 칼국수, 조개찜, 봉골레 파스타",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/oPB5-1676620390941-%E1%84%87%E1%85%A5%E1%86%BA%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%BC+%E1%84%80%E1%85%A1%E1%86%BC%E1%84%92%E1%85%AA%E1%86%BC.jpg,,
 벗이랑 버찌 홍국,0,3,0,4,3,2,0,0,12000,12,제조일로부터 90일,냉장 보관,"육전, 고추장 삼겹살, 양념 장어구이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/wU9T-1676015039130-redtakju+%283%29.jpg,,
 솔송주,3,1,4,4,0,0,0,0,9000,40,유통기한 없음,상온 보관 가능,"두부전골, 돼지갈비 찜, 대구지리탕",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/Tt0h-1653875726525-SOL_THUMB.jpg,,
@@ -133,7 +131,7 @@ DOK막걸리,0,4,0,3,1,2,0,0,3300,6,제조일로부터 30일,냉장 보관,"닭�
 양지백주,0,3,0,4,2,4,0,0,20000,15,제조일로부터 60일,냉장 보관,"닭볶음탕, 고추장 찌개, 콩나물 무침",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/2BrE-1639125133588-%EC%96%91%EC%A7%80%EB%B0%B1%EC%A3%BC.jpg,,
 모든날에,1,2,0,2,4,4,0,0,28000,15,제조일로부터 90일,냉장 보관,"간장 게장, 고등어구이, 찜닭",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/Uvut-1639124391341-%EB%AA%A8%EB%93%A0%EB%82%A0%EC%97%90.jpg,,
 아치23,3,0,3,3,0,0,0,0,12000,23,유통기한 없음,상온 보관 가능,"감자탕, 스테이크, 양꼬치",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/IBvH-1669082685835-thumb.jpg,,
-양촌 우렁이쌀 1,1,2,0,3,2,1,0,0,16000,14,유통기한 없음,직사광선을 피해 서늘한 곳에 보관,"수육, 매운탕, 순대",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/wHXM-1654568854786-thumb.jpg,,
+양촌 우렁이쌀 약청주,1,2,0,3,2,1,0,0,16000,14,유통기한 없음,직사광선을 피해 서늘한 곳에 보관,"수육, 매운탕, 순대",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/wHXM-1654568854786-thumb.jpg,,
 마크홀리 오리지널 6.0,0,4,0,3,1,2,0,0,7900,6,제조일로부터 60일,냉장 보관,"주꾸미 볶음, 멜론 프로슈토, 떡볶이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/M6gR-1659058252071-1.jpg,,
 초선의 꿈,2,3,0,2,0,4,0,2,20000,12,유통기한 없음,상온 보관 가능,"리코타치즈, 가리비 치즈 구이, 요거트",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/nunu-1635905019728-%EC%B4%88%EC%84%A0%EC%9D%98%20%EA%BF%88%20%EB%A1%9C%EC%A0%9C%20%EC%8A%A4%EC%9C%84%ED%8A%B8_%EC%9E%AC%EC%B4%AC%EC%98%81.jpg,,
 여포의 꿈 (화이트),2,3,0,3,0,4,0,0,25000,12,유통기한 없음,상온 보관 가능,"떡갈비, 연어 스테이크, 치킨너겟",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/2iNg-1635732953983-ypg0.jpg,,
@@ -161,8 +159,8 @@ DOK막걸리,0,4,0,3,1,2,0,0,3300,6,제조일로부터 30일,냉장 보관,"닭�
 주향소주 25,3,0,3,3,0,0,0,0,17000,25,유통기한 없음,상온 보관 가능,"육전, 초밥, 순대",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/y5LB-1661321653036-1.jpg,,
 주향소주 41,3,0,4,4,0,0,0,0,40000,41,유통기한 없음,상온 보관 가능,"소갈비 찜, 매운탕, 딱새우회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/27UV-1661497449699-0.jpg,,
 자두와인,2,3,0,4,0,4,0,0,25000,11.5,유통기한 없음,직사광선을 피해 서늘한 곳에 보관,"크림 파스타, 탕수육, 불고기",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/WL2w-1620617185155-%EA%B3%A0%EB%8F%84%EB%A6%AC+%EC%9E%90%EB%91%90.jpg,,
-세종대왕어주 0,0,3,0,3,3,2,0,0,18590,13,제조일로부터 60일,냉장 보관,"두부구이, 버섯 전골, 오뎅탕",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/K8OH-1623071019146-%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%96%B4%EC%A3%BC%ED%83%81%EC%A3%BC-6.jpg,,
-세종대왕어주 1,1,2,0,4,2,1,0,0,33000,15,제조일로부터 90일,냉장 보관,"조개찜, 호박전, 흰살생선회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/tsxw-1623071059946-%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%96%B4%EC%A3%BC%EC%95%BD%EC%A3%BC-4.jpg,,
+세종대왕어주 탁주,0,3,0,3,3,2,0,0,18590,13,제조일로부터 60일,냉장 보관,"두부구이, 버섯 전골, 오뎅탕",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/K8OH-1623071019146-%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%96%B4%EC%A3%BC%ED%83%81%EC%A3%BC-6.jpg,,
+세종대왕어주 약청주,1,2,0,4,2,1,0,0,33000,15,제조일로부터 90일,냉장 보관,"조개찜, 호박전, 흰살생선회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/tsxw-1623071059946-%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%96%B4%EC%A3%BC%EC%95%BD%EC%A3%BC-4.jpg,,
 이강주,3,2,3,3,0,0,0,0,13000,25,유통기한 없음,상온 보관 가능,"떡갈비, 육전, 데리야끼 치킨",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/8gOC-1654847918174-1.jpg,,
 오디여라,3,0,3,3,0,0,0,0,20000,25,유통기한 없음,상온 보관 가능,"크림소스 연어 스테이크, 양갈비 구이, 콘치즈",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/ZaWs-1656035499740-1.jpg,,
 아리아리,3,0,3,3,0,0,0,0,53000,40,유통기한 없음,상온 보관 가능,"과일 샐러드, 월남쌈, 냉채 족발",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/Fx06-1657587862607-1%20%282%29.jpg,,
@@ -183,7 +181,7 @@ DOK막걸리,0,4,0,3,1,2,0,0,3300,6,제조일로부터 30일,냉장 보관,"닭�
 천비향 화주,3,0,3,2,0,0,0,0,64000,40,유통기한 없음,상온 보관 가능,"굴비, 곱창전골, 홍어 삼합",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/XpFS-1662101466971-0.jpg,,
 담은,0,4,0,3,1,2,0,0,11000,6.5,제조일로부터 30일,냉장 보관,"닭볶음탕, 돼지고기 김치찜, 떡뽂이",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/Sx6L-1676535758336-thumb.jpg,,
 두레앙22,3,0,1,2,0,0,0,0,6000,22,유통기한 없음,상온 보관 가능,"바지락 술찜, 순대, 불고기 샐러드",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/q4eY-1634536616141-%EB%91%90%EB%A0%88%EC%95%99%2022.jpg,,
-두레앙 3,3,0,4,4,0,0,0,0,30000,35,유통기한 없음,상온 보관 가능,"육포, 샤브샤브, 안심 스테이크",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/ZgC7-1648430812332-%EB%91%90%EB%A0%88%EC%95%99_%EC%88%A0%EB%8B%B4%ED%99%94%EB%9D%BC%EB%B2%A8.jpg,,
+두레앙 증류주,3,0,4,4,0,0,0,0,30000,35,유통기한 없음,상온 보관 가능,"육포, 샤브샤브, 안심 스테이크",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/ZgC7-1648430812332-%EB%91%90%EB%A0%88%EC%95%99_%EC%88%A0%EB%8B%B4%ED%99%94%EB%9D%BC%EB%B2%A8.jpg,,
 혼디주,2,3,0,3,0,4,0,0,8000,12,유통기한 없음,직사광선을 피해 서늘한 곳에 보관,"과일 샐러드, 밀푀유나베, 생선회",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/AsB2-1687502925561-thumbnail.jpg,,
 한청,1,3,0,3,2,3,0,0,20000,15,유통기한 없음,상온 보관 가능,"비빔면, 유부초밥, 동치미막국수",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/Q48h-1672195146726-1050+%285%29.jpg,,
 고리진,3,0,4,4,0,0,0,0,75000,47,유통기한 없음,상온 보관 가능,"조개찜, 견과류, 크래커",https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/T3qR-1681089884102-gorijin.jpg,,
