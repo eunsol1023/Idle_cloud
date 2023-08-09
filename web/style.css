@@ -227,3 +227,94 @@
     font-family: 'Diphylleia', 세리프;
 }
 
+/* 폼 전체 스타일 */
+.login-form {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #f5f5f5;
+    padding: 20px;
+    margin-top: 18%;
+    margin-bottom: 100px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(51, 43, 41, 0.25);
+    width: 600px;
+    height: 450px; /* 폼의 전체 높이를 늘이고 싶다면 원하는 크기로 설정하세요. */
+}
+
+/* 입력 필드 스타일 */
+.login-form input[type="text"],
+.login-form input[type="password"] {
+    width: 100%;
+    max-width: 96.5%;
+    height: 50px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 20px;
+}
+
+.login-form input::placeholder {
+    opacity: 0.25;
+}
+
+.login-form label {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+/* 로그인 버튼과 회원가입 버튼을 감싸는 div */
+.form-buttons {
+    display: flex;
+    flex-direction: column; /* 버튼들을 세로로 배치 */
+    align-items: center; /* 가운데 정렬 */
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+/* 로그인 버튼 스타일 */
+.form-buttons button {
+    width: 70%; /* 버튼의 너비를 폼에 맞게 조정 */
+    background-color: rgba(222, 183, 108, 0.85);
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.form-buttons button:hover {
+    background-color: rgba(222, 183, 108, 0.6);
+}
+
+.login-form .form-buttons .signup-button {
+    background-color: rgba(128, 128, 128, 0.45);
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.login-form .form-buttons .signup-button:hover {
+    background-color: rgba(128, 128, 128, 0.2);
+}
+
+.forgot-text {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 14px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.forgot-text:hover {
+    text-decoration: underline;
+}
+
