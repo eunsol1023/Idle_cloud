@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MYPAGE</title>
+    <link href="https://fonts.googlepis.com/css?family=Noto+Sans+KR&display=swap" rle="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Diphylleia&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="sub_header">
+            <div class="logo">
+                <a href="main.html"><img src="img/logo_samll.png" alt="로고" width="200" height="200"></a>
+            </div>
+
+            <div class="sub_nav">
+                <li><a href="main.html">HOME</a></li>
+                <li><a href="login.html">LOGIN</a></li>
+                <li><a href="mypage.html">MYPAGE</a></li>
+            </div>
+        </div>
+
+        <div class=" sub_menu">
+            <li><a href="kor_drink.html">전통주란?</li>
+            <li><a href="kor_drink_type.html">전통주</li>
+            <li><a href="kor_drink_BTI_intro.html">酒BTI</a></li>
+            <li><a href="notice.html">공지사항</a></li>
+            <li><a href="inquiry.html">문의</a></li>
+            <li><a href="review.html">후기</a></li>
+        </div>
+        
+        <div class="mypage_box">
+            <h2 class="mypage_h2">회원정보 수정</h2>
+            <div class="mypage_id">
+                <div class="mypage_text">아이디:</div>
+                <input class="mypage_value" type="text" value="사용자아이디">
+            </div>
+            <div class="mypage_email">
+                <div class="mypage_text">이메일:</div>
+                <input class="mypage_value" type="email" value="user@example.com">
+            </div>
+            <div class="mypage_name">
+                <div class="mypage_text">이름:</div>
+                <input class="mypage_value" type="text" value="사용자이름">
+            </div>
+            <div class="mypage_phone">
+                <div class="mypage_text">전화번호:</div>
+                <input class="mypage_value" type="tel" value="010-1234-5678">
+            </div>
+            <div class="mypage_gender">
+                <div class="mypage_text">성별:</div>
+                <input class="mypage_value" type="text" value="남성">
+            </div>
+            <div class="mypage_birth">
+                <div class="mypage_text">생일:</div>
+                <input class="mypage_value" type="text" value="1990년 1월 1일">
+            </div>
+            <div class="mypage_addr">
+                <div class="mypage_text">주소:</div>
+                <input class="mypage_value" type="text" value="서울시 강남구">
+            </div>
+            <div class="mypage_detail_addr">
+                <div class="mypage_text">상세주소:</div>
+                <input class="mypage_value" type="text" value="청와대">
+            </div>
+            <div class="mypage_Modifying">
+                <a href="mypage.html" class="mypage_modifying">회원정보 수정완료</a>
+            </div>
+        </div>
+        <div class="footer">
+            <img src="img/footer_logo.jpg" alt="footer">
+        </div>
+    </div>
+    
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const modifyForm = document.getElementById("modifyForm");
+            const modifyButton = document.getElementById("modifyButton");
+
+            modifyButton.addEventListener("click", function () {
+                const newUsername = document.getElementById("newUsername").value;
+                const newEmail = document.getElementById("newEmail").value;
+                const newPhoneNumber = document.getElementById("newPhoneNumber").value;
+                const newGender = document.getElementById("newGender").value;
+                const newBirthday = document.getElementById("newBirthday").value;
+                const newAddress = document.getElementById("newAddress").value;
+                const newDetailAddress = document.getElementById("newDetailAddress").value;
+                // 수정 작업 수행 (여기서는 콘솔에 출력만)
+                console.log("새로운 사용자 이름:", newUsername);
+                console.log("새로운 이메일 주소:", newEmail);
+                console.log("새로운 전화번호:", newPhoneNumber);
+                console.log("새로운 성별:", newGender);
+                console.log("새로운 생일:", newBirthday);
+                console.log("새로운 주소:", newAddress);
+                console.log("새로운 상세주소:", newDetailAddress);
+                // 나머지 수정 작업 수행
+
+                // 수정 완료 메시지 또는 리다이렉션 등을 수행
+                alert("회원 정보가 수정되었습니다.");
+            });
+        });
+    </script>
+
+</body>
