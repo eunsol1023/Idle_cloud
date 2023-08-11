@@ -92,15 +92,6 @@
             <div class="square" id="body5" onclick="handleButtonClick('sur_box_body', 5)">아주 강함</div>
         </div>
 
-        <div class="survey_soda">
-            <span id="surveyText">선호하는 술의<span class="sweetness">&nbsp;탄산 유무</span>를 선택해주세요!</span>
-        </div>
-        
-        <div class="sur_box_soda">
-            <div class="square" id="soda0" onclick="handleButtonClick('sur_box_soda', 0)">없음</div>
-            <div class="square" id="soda1" onclick="handleButtonClick('sur_box_soda', 1)">있음</div>
-        </div>
-
         <div class="survey_price">
             <span id="surveyText">선호하는 술의<span class="sweetness">&nbsp;가격</span>을 입력해주세요!</span>
         </div>
@@ -121,7 +112,6 @@
             sur_box_sweet: -1,
             sur_box_sour: -1,
             sur_box_body: -1,
-            sur_box_soda: -1
         };
     
         function handleClick(className, index) {
