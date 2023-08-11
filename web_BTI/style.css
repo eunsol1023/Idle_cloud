@@ -8,16 +8,15 @@
     color:#000;
 }
 
-.header{
-    background: url("img/logo_last.png") no-repeat center center #332B29;
-    /* background-image: url("img/로고_최종.jpg");
-    background-color: #332B29; */
-    /* margin: 0 auto; */
+.intro_bg{
+    background-image: url("img/로고_최종.jpg");
+    /* background-color: #332B29; */
+    margin: 0 auto;
     width : 100%;
     height : 500px;
 }
 
-.header_bg{
+.header{
     display: flex;
     width: auto;
     margin : auto;
@@ -26,7 +25,7 @@
 }
 
 .searchArea{
-    width:20%;
+    width:30%;
     height:50px;
     background:rgba(222,183,108,0.75);
     border-radius: 30px;
@@ -36,7 +35,7 @@
 
 .searchArea > form > input{
     border:none;
-    width:75%;
+    width:85%;
     height:50px;
     background: rgba(0,0,0,0.0);
     color: #fff;
@@ -48,25 +47,33 @@
     color : #fff;
     font-weight: bold;
     cursor  : pointer;
-    margin-left: 7.5%;
 }
 
-.header_menu{
+.nav{
     display: flex;
     justify-content: flex-end;
     line-height:90px;
     width:80%;
 }
 
-.header_menu > li{
+.nav > li{
     margin-left:50px;
 }
 
-.header_menu > li > a{
+.nav > li > a{
     color: #fff;
     text-decoration-line: none;
     margin-right: 25px;
     font-family: 'Diphylleia', 세리프;
+}
+
+.intro_text{
+    width: 100%;
+    margin:75px auto 100px auto;
+    text-align: center;
+}
+.intro_text > span{
+    color : #DEB76C;
 }
 
 /* menu */
@@ -110,7 +117,7 @@
     /* position: relative;
     top: -750px; */
     width: 80%;
-    height: 400px;
+    height: 500px;
     justify-content: center;
     display: flex;
     margin: auto;
@@ -118,8 +125,8 @@
 }
 
 .main_01 > div > li{
-    width: 400px;
-    height: 400px;
+    width: 610px;
+    height: 500px;
     flex: 1;
     text-align: center;
     margin-top: 80px;
@@ -227,94 +234,97 @@
     font-family: 'Diphylleia', 세리프;
 }
 
-/* 폼 전체 스타일 */
-.login-form {
-    position: relative;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: #f5f5f5;
-    padding: 20px;
-    margin-top: 18%;
-    margin-bottom: 100px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(51, 43, 41, 0.25);
-    width: 600px;
-    height: 450px; /* 폼의 전체 높이를 늘이고 싶다면 원하는 크기로 설정하세요. */
-}
 
-/* 입력 필드 스타일 */
-.login-form input[type="text"],
-.login-form input[type="password"] {
+/* ----------survey---------- */
+
+
+.survey{
     width: 100%;
-    max-width: 96.5%;
-    height: 50px;
-    padding: 10px;
-    margin-bottom: 20px;
-    margin-top: 10px;
-    border: 1px solid #ccc;
-    border-radius: 3px;
-    font-size: 20px;
+    height: 400px;
+    margin: auto;
 }
 
-.login-form input::placeholder {
-    opacity: 0.25;
-}
-
-.login-form label {
-    font-size: 20px;
-    font-weight: bold;
-    margin-bottom: 5px;
-}
-
-/* 로그인 버튼과 회원가입 버튼을 감싸는 div */
-.form-buttons {
+.survey > span{
+    position: relative;
+    top: 65px;
+    margin: 80px;
+    font-size: 300%;
     display: flex;
-    flex-direction: column; /* 버튼들을 세로로 배치 */
-    align-items: center; /* 가운데 정렬 */
-    justify-content: space-between;
-    margin-top: 20px;
+    justify-content: center;
+    color:black;
 }
 
-/* 로그인 버튼 스타일 */
-.form-buttons button {
-    width: 70%; /* 버튼의 너비를 폼에 맞게 조정 */
-    background-color: rgba(222, 183, 108, 0.85);
+.sweetness {
+    color: rgba(222,183,108,100);
+}
+
+
+.sur_box{
+    position: relative;
+    top: -200px;
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    height: 75px;
+    margin: auto;
+}
+
+.sur_box_text > input{
+    position: relative;
+    top: -200px;
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    height: 75px;
+    margin: auto;
+    border-radius: 30px;
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+.square {
+    width: 15%;
+    height: 60px;
+    border-radius: 5px;
+    background-color: rgba(222,183,108,0.5);
+    border: 2.5px solid white;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 150%;
+}
+
+.bti_button {
+    margin-top: -150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bti_button a > button{
+    width:100px;
+    height: 50px;
+    background: #332B29;
     color: #fff;
-    border: none;
-    padding: 10px 15px;
-    margin-bottom: 10px;
-    cursor: pointer;
-    border-radius: 3px;
-    font-size: 20px;
-    font-weight: bold;
+    font-size: 15px;
+    border: 2.5px solid white;
 }
 
-.form-buttons button:hover {
-    background-color: rgba(222, 183, 108, 0.6);
+.bti_intro_button {
+    margin-top: -75px;
+    display: flex;
+    justify-content: center; /* 가로 가운데 정렬 */
+    align-items: center; /* 세로 가운데 정렬 */
 }
 
-.login-form .form-buttons .signup-button {
-    background-color: rgba(128, 128, 128, 0.45);
-    color: white;
-    font-weight: bold;
-    margin-top: 20px;
+.bti_intro_button a > button{
+    width:200px;
+    height: 100px;
+    margin-top: 500px;
+    background: #DEB76C;
+    color: black;
+    font-size: 30px;
+    border: 2.5px solid white;
+    border-radius: 30px;
 }
-
-.login-form .form-buttons .signup-button:hover {
-    background-color: rgba(128, 128, 128, 0.2);
-}
-
-.forgot-text {
-    text-align: center;
-    margin-top: 10px;
-    font-size: 14px;
-    cursor: pointer;
-    font-size: 20px;
-}
-
-.forgot-text:hover {
-    text-decoration: underline;
-}
-

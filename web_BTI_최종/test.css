@@ -1,0 +1,125 @@
+/* --------card_information-------- */
+
+ul, li {
+    list-style: none;
+}
+
+.list_wrap {
+    margin: 9%;
+    /* padding: 100px; */
+}
+
+.list_wrap .card:nth-child(-n+3) {
+    margin-top: 0;
+}
+.list_wrap .card:nth-child(3n-2) {
+    margin-left: 0;
+}
+
+.list_wrap .card {
+   height: 600px;
+   width: 29%;
+   border-radius: 15px;
+   display: inline-block;
+   margin-top: 30px;
+   margin-left: 5%;
+   margin-bottom: 30px;
+   position: relative;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   overflow: hidden;
+
+}
+
+
+
+.list_wrap .card-header {
+   -webkit-transition: 0.5s; /*사파리 & 크롬*/
+    -moz-transition: 0.5s;  /*파이어폭스*/
+    -ms-transition: 0.5s;   /*인터넷 익스플로러*/
+    -o-transition: 0.5s;  /*오페라*/
+    transition: 0.5s;
+   width: 100%;
+   height: 400px;
+   border-radius: 15px 15px 0 0;
+   background-size: 100% 400px;
+   background-repeat: no-repeat;
+}
+
+.list_wrap .card1 .card-header { background-image: url(https://d38cxpfv0ljg7q.cloudfront.net/admin_contents/detail/mcu5-1645437591022-%EC%9E%90%EC%97%B0%EB%8B%B4%EC%9D%80%20%EB%B3%B5%EB%B6%84%EC%9E%90%20%EB%A7%89%EA%B1%B8%EB%A6%AC-7.jpg);}
+
+
+.list_wrap .card:hover .card-header  {
+   opacity: 0.8;
+   height: 100px;
+}
+
+
+
+.list_wrap .card-header-is_closed{
+    background-color: #EF5A31 ;
+    color: #FFF ;
+    font-weight: bold ;
+    text-align: center ;
+    float: right;
+    margin: 15px 15px 0 0;
+    border-radius: 50%;
+    font-weight: bold;
+    padding: 10px 10px;
+    line-height: 20px;
+
+}
+
+
+
+.list_wrap h1 {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.list_wrap .card-body-header{
+   line-height: 25px;
+   margin: 10px 20px 0px 20px;
+
+}
+
+
+
+.list_wrap .card-body-description  {
+    opacity: 0;
+    color: #757B82;
+    line-height: 25px;
+    -ms-transition: .2s ease-in-out;
+    transition : .2s ease-in-out;
+    overflow: hidden;
+   height: 180px;
+   margin: 5px 20px;
+}
+
+
+
+.list_wrap .card:hover .card-body-description {
+    opacity: 1;
+    -ms-transition: .5s ease-in-out;
+    transition : .5s ease-in-out;
+    /* overflow: scroll; */
+
+}
+
+
+.card-body-hashtag {
+   color: rgba(0, 0, 0, 0.5);
+   font-style: italic;
+}
+
+
+
+.card-body-footer {
+     position: absolute; 
+     margin-top: 15px;
+     margin-bottom: 6px;
+    bottom: 0; 
+    width: 314px;
+    font-size: 14px;
+    color: #9FA5A8;
+    padding: 0 15px;
+}
