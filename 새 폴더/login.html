@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOGIN</title>
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+KR&display=swap" rle="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Diphylleia&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+    <div class="wrap">
+        <div class="sub_header">
+            <div class="logo">
+                <a href="main.html"><img src="img/logo_samll.png" alt="로고" width="200" height="200"></a>
+            </div>
+
+            <div class="sub_nav">
+                <li><a href="main.html">HOME</a></li>
+                <li><a href="login.html">LOGIN</a></li>
+                <li><a href="mypage.html">MYPAGE</a></li>
+            </div>
+        </div>
+
+        <div class=" sub_menu">
+            <li><a href="kor_drink.html">전통주란?</li>
+            <li><a href="kor_drink_type.html">전통주</li>
+            <li><a href="kor_drink_BTI_intro.html">酒BTI</a></li>
+            <li><a href="notice.html">공지사항</a></li>
+            <li><a href="inquiry.html">문의</a></li>
+            <li><a href="review.html">후기</a></li>
+        </div>
+
+        <div class="login-form">
+            <form id="login-form">
+                <label for="username">아이디</label>
+                <input type="text" name="username" id="username" placeholder="아이디를 입력하세요." required>
+        
+                <label for="password">비밀번호</label>
+                <input type="password" name="password" id="password" placeholder="비밀번호를 입력하세요." required>
+        
+                <div class="login_form-buttons">
+                    <button type="submit">로그인</button>
+                    <button type="button" class="login_signup-button" onclick="goToRegisterPage()">회원가입</button>
+                </div>
+        
+                <p class="login_forgot-text">아이디 혹은 비밀번호를 잊어버리셨나요?</p>
+            </form>
+        </div>
+
+        <div class="login_footer">
+            <img src="img/footer logo.jpg" alt="footer" width="100%">
+        </div>
+
+    </div>
+
+    <script>
+        // 로그인폼
+        const loginForm = document.getElementById("login-form");
+        loginForm.addEventListener("submit", (event) => {
+            event.preventDefault();
+            const username = loginForm.username.value;
+            const password = loginForm.password.value;
+
+            // 실제 서버로 요청을 보내는 부분은 여기에 추가
+            // 예시로 입력된 값을 alert으로 보여줍니다.
+
+            alert(`Username: ${username}, Password: ${password}`);
+        });
+
+        // 회원가입
+        const signupButton = document.querySelector(".signup-button");
+        function goToRegisterPage() {
+            window.location.href = "/register.html"; // 변경하고자 하는 경로로 수정
+        }
+
+        // 아이디 비밀번호 찾기
+        const forgotText = document.querySelector(".forgot-text");
+        forgotText.addEventListener("click", () => {
+            // 아이디, 비밀번호 찾기 기능을 수행하는 로직을 여기에 추가합니다.
+            // 예시로 메시지를 띄우는 기능을 추가합니다.
+            alert("아이디와 비밀번호 찾기 기능은 구현되지 않았습니다.");
+        });
+    </script>
+</body>
+</html> 
