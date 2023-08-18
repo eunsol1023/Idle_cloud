@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>전통주</title>
+    <link href="https://fonts.googlepis.com/css?family=Noto+Sans+KR&display=swap" rle="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Diphylleia&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="sub_header">
+        <div class="logo">
+            <a href="/render_main"><img src="{{ url_for('static', filename='img/logo_samll.png') }}" alt="로고" width="200" height="200"></a>
+        </div>
+
+        <div class="sub_nav">
+            <li><a href="/render_main">HOME</a></li>
+        </div>
+    </div>
+
+    <div class="sub_menu">
+        <li><a href="/render_kor_drink">전통주란?</li>
+        <li><a href="/render_type">전통주</li>
+        <li><a href="/render_intro">酒BTI</a></li>
+    </div>
+
+    <div class="list_wrap">
+        <ul class="card_list">
+            {% for item in csv_data %}
+            <li class="card_item">
+                <div class="card">
+                    <div class="card_body">
+                        <div class="card_image">
+                            <img src="{{ item['tra_drink_img'] }}" width ="250px">
+                        </div>
+                        <div class="card_text">
+                            <h1>{{ item['tra_drink_name'] }}</h1><br> 
+                            <h2>{{ item['tra_drink_tag'] }}</h2><br>
+                            {{ item['tra_drink_info'] }}<br>
+                            도수 : {{ item['tra_drink_alc'] }}<br>
+                            가격 : {{ item['tra_drink_price'] }}<br>
+                            추천 음식 : {{ item['tra_drink_snack'] }}
+                        </div>
+                    </div>
+                </div>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <!-- <style>
+        .card_item{
+            padding: 10px;
+        }
+        .card{
+            border: 2px solid #332B29;
+            margin-bottom: 10px;
+        }
+        .card_image{
+            padding: 20px;
+        }
+        .card_text{
+            background: rgba(222,183,108,0.25);
+            padding: 20px;
+            margin-bottom: 10px;
+        }
+    </style> -->
+
+</body>
+</html> 

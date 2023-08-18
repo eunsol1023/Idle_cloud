@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>전통주란?</title>
+    <link href="https://fonts.googlepis.com/css?family=Noto+Sans+KR&display=swap" rle="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Diphylleia&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+    <div class="wrap">
+        <div class="sub_header">
+            <div class="logo">
+                <a href="/render_main"><img src="{{ url_for('static', filename='img/logo_samll.png') }}" alt="로고" width="200" height="200"></a>
+            </div>
+
+            <div class="sub_nav">
+                <li><a href="/render_main">HOME</a></li>
+            </div>
+        </div>
+
+        <div class="sub_menu">
+            <li><a href="/render_kor_drink">전통주란?</li>
+            <li><a href="/render_type">전통주</li>
+            <li><a href="/render_intro">酒BTI</a></li>
+        </div>
+
+        <div class="info">
+            <img src="{{ url_for('static', filename='img/kor_drink_info.png') }}" width="100%">
+        </div>
+
+        <div class="kor_drink_footer">
+            <img src="{{ url_for('static', filename='img/footer_logo.jpg') }}" width="100%">
+        </div>
+    </div>
+    
+</body>
+</html> 
