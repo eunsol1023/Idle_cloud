@@ -68,6 +68,7 @@ class PredictService:
                 data2[tastes2] = data2[tastes2] / max_value
             return data2
 
+        # 사용자 기반 협업 필터링 유사도 측정 함수
         def calculate_similarity1(item1, desired_tastes):
             norm_item1 = np.linalg.norm(item1)
             norm_desired_tastes = np.linalg.norm(desired_tastes)
@@ -76,6 +77,7 @@ class PredictService:
             cos_sim1 = np.dot(item1, desired_tastes) / \
                 (norm_item1 * norm_desired_tastes)
             return cos_sim1
+
 
         def calculate_similarity2(item2, desired_tastes):
             norm_item2 = np.linalg.norm(item2)
@@ -89,15 +91,13 @@ class PredictService:
         def recommend_drinks1(data, age_group, gender, desired_tastes):
             data = normalize_survery_data(data, survey_tastes)
 
-            # 성별로 필터링
-            filtered_data = data[data['survey_gender'] == gender]
 
-            # 성별 그룹 내에서 연령에 따라 필터링
-            filtered_data = filtered_data[filtered_data['survey_age'] == age_group]
+            filtered_data = data[
+                (data['survey_gender'] == gender) &
+                (data['survey_age'] == age_group) &
+                (data['survey_taste_type'] == member_record['taste_type'])
+            ].copy()
 
-            # 맛 유형에 따라 데이터 필터링
-            filtered_data = filtered_data[filtered_data['survey_taste_type']
-                                            == member_record['taste_type']].copy()
 
             all_similar_items1 = []
             desired_tastes_list = np.array(list(desired_tastes.values()))
@@ -105,6 +105,7 @@ class PredictService:
                 v1 = np.array([row[taste] for taste in survey_tastes])
                 cos_sim = calculate_similarity1(v1, desired_tastes_list)
                 all_similar_items1.append((index, cos_sim))
+
 
             sorted_similar_items1 = sorted(
                 all_similar_items1, key=lambda x: x[1], reverse=True)
